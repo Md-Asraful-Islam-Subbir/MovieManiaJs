@@ -1,0 +1,3 @@
+npm init
+
+data layer ke industry layer theke alada korte extra data.js create kora hoice+module function bebohar kora hoice

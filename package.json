@@ -1,0 +1,19 @@
+{
+  "name": "moviemania",
+  "version": "1.0.0",
+  "description": "A movie dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "TailwindCSS"
+  ],
+  "author": "Sabbir",
+  "license": "MIT",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  }
+}
